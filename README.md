@@ -41,3 +41,5 @@ mvn clean install
 mvn spring-boot:run
 ```
 4. Install the postman client to see the responses of our REST-API.
+
+Now, use it as a Backend As a Service (BaaS).
